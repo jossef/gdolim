@@ -1,0 +1,10 @@
+{
+  "name": "gdolim",
+  "version": "1.2.0",
+  "description": "Google Spreadsheets Client",
+  "homepage": "https://github.com/jossef/gdolim",
+  "author_email": "jossef12@gmail.com",
+  "author_name": "jossef",
+  "tags": "google,spreadsheets",
+  "license": "Apache v2"
+}
